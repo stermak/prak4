@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prak4</string>
+    <string name="action_search">Поиск</string>
+    <string name="edit_message" >Ввод данных </string>
+    <string name="send_message" >Отправка</string>
+    <string name="window2" >Окно 2</string>
+    <string name="back">Назад</string>
+    <string name="settings">Настройки</string>
+
+</resources>

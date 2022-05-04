@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prak4</string>
+    <string name="action_search" >Search</string>
+    <string name="settings">settings</string>
+    <string name="edit_message" >Data input </string>
+    <string name="send_message" >Enter</string>
+    <string name="window2" >Window 2</string>
+    <string name="back">Back</string>
+</resources>
